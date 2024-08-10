@@ -38,6 +38,8 @@ yarn-error.log*
 .env.production.local
 .env.example
 
+
+
 # Temporary Files
 *.tmp
 *.temp
